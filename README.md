@@ -8,4 +8,4 @@ Rules:
 - The piece and move notations are logged so you can analyze your games after you play for future improvement. 
 - Have fun with the GUI!! 
 
-Note: You can find a more accurate description of the project in the pptx file in /Rules and Class Diagram
+Note: You can find a more accurate description of the project in the pptx file in /Project Description and Class Diagram
